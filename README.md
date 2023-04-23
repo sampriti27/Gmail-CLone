@@ -27,7 +27,7 @@ Gmail Clone is a web application that provides a user interface similar to that 
 To install and run this project locally, follow these steps:
 
 1. Clone this repository using `git clone https://github.com/sampriti27/Gmail-CLone.git`
-2. Navigate to the project directory with `cd File-hive-File-Manager`
+2. Navigate to the project directory with `cd Gmail-CLone`
 3. Install dependencies with `npm install`
 4. Start the development server with `npm start`
 
